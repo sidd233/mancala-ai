@@ -1,0 +1,9 @@
+# compiled binaries
+mancala
+selfplay
+
+# object files
+*.o
+
+# save slots written at runtime
+slot*.txt
